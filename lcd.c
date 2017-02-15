@@ -103,4 +103,5 @@ static void checkbusy()
 	_delay_us(10); _delay_us(10); _delay_us(10);
 	_delay_us(10); _delay_us(10);
 }
-	
+
+

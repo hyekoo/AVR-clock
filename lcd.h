@@ -23,4 +23,5 @@ void LcdPutchar(char ch);
 void LcdPuts(char *str);
 void LcdNewchar(char ch, char font[]);
 
-#endif 
+#endif
+
